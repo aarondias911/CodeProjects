@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RichTextBoxWithLink
 {
-    public class Employee
+    public class Automobile
     {
         public string Name { get; set; }
 

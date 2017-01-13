@@ -57,11 +57,12 @@ namespace RichTextBoxWithLink
             foreach (string word in Text.Split(' ').ToList())
             {
                 //This condition could be replaced by the Regex
-                if(word.StartsWith("*"))
+                if(word.StartsWith("#"))
                 {
                     string linkName = word.Substring(1, word.Length - 1);
                     //linkURL can be changed based on some condition.
-                    string linkURL = "https://www.google.com";
+                    string linkURL = GetUrl(linkName);
+                   
 
                     Hyperlink link = new Hyperlink();
                     link.IsEnabled = true;
@@ -78,6 +79,12 @@ namespace RichTextBoxWithLink
             }
             document.Blocks.Add(para);
             return document;
+        }
+
+        //This method may contain any logic to return a Url based on a key string
+        static string GetUrl(string key)
+        {
+            return string.Format(@"https://www.google.com/#q={0}", key);
         }
 
     }
