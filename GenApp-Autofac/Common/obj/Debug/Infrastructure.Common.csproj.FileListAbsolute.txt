@@ -1,0 +1,71 @@
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Infrastructure.Common.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Infrastructure.Common.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Prism.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Prism.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\obj\Debug\Infrastructure.Common.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Autofac.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Prism.Autofac.Wpf.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Autofac.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Common\bin\Debug\Prism.Autofac.Wpf.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Autofac.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Prism.Autofac.Wpf.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Autofac.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Prism.Autofac.Wpf.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\obj\Debug\Infrastructure.Common.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\obj\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\obj\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\Xceed.Wpf.AvalonDock.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Common\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll

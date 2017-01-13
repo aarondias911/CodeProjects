@@ -1,0 +1,86 @@
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\ModuleB.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\ModuleB.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.baml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.g.cs
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.g.resources
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csproj.GenerateResource.Cache
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\ModuleB.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\ModuleB.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.baml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.g.cs
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.g.resources
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csproj.GenerateResource.Cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\ModuleB.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\ModuleB.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.xml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.baml
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.g.cs
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.g.resources
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.dll
+C:\Users\Aaron\Desktop\WPF Learning\HelloWorld-Autofac (2)\HelloWorld-Autofac\Modules\ModuleB\obj\Debug\ModuleB.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\ModuleB.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\ModuleB.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.baml
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\Views\ViewB.g.cs
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB.g.resources
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB.csproj.GenerateResource.Cache
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\obj\Debug\ModuleB.pdb
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Autofac.dll
+C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleB\bin\Debug\Autofac.xml

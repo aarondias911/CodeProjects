@@ -1,0 +1,42 @@
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\ModuleA.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\ModuleA.pdb
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.Wpf.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.xml
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.Wpf.xml
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\Views\ViewA.baml
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\Views\ViewA.g.cs
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA_MarkupCompile.cache
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.g.resources
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.Properties.Resources.resources
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.pdb
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Common.dll
+C:\Users\Aaron\Desktop\TFS Online\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Common.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\ModuleA.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\ModuleA.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\Views\ViewA.baml
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\Views\ViewA.g.cs
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA_MarkupCompile.cache
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.g.resources
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.Properties.Resources.resources
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.csproj.GenerateResource.Cache
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.dll
+C:\Users\diasaar\Desktop\Projects\HelloWorld-Autofac\Modules\ModuleA\obj\Debug\ModuleA.pdb
