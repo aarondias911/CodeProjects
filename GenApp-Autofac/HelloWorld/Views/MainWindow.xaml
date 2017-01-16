@@ -9,20 +9,32 @@
         Title="Gen Shell" WindowState="Maximized">
     <Grid>
         <DockPanel>
-            <Menu DockPanel.Dock="Top">
-                <MenuItem Header="_File">
+            <Menu DockPanel.Dock="Top" ItemsSource="{Binding Path=MenuItems}">
+                <Menu.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Path=SubMenus}">
+                        <TextBlock Margin="1" Text="{Binding Name}"/>
+                        <HierarchicalDataTemplate.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Margin="1" Text="{Binding Name}"/>
+                            </DataTemplate>
+                        </HierarchicalDataTemplate.ItemTemplate>
+                    </HierarchicalDataTemplate>
+                </Menu.ItemTemplate>
+           
+
+            <!--<MenuItem Header="_File">
                     <MenuItem Header="View A" Command="{Binding NavigateToViewA}" />
                     <MenuItem Header="View B" Command="{Binding NavigateToViewB}" />
                     <MenuItem Header="_Exit" />
                 </MenuItem>
                 <MenuItem Header="_Tools">
                     <MenuItem Header="_Manage users">
-                        <!--<MenuItem.Icon>
+                        --><!--<MenuItem.Icon>
                             <Image Source="/WpfTutorialSamples;component/Images/user.png" />
-                        </MenuItem.Icon>-->
+                        </MenuItem.Icon>--><!--
                     </MenuItem>
                     <MenuItem Header="_Show groups" IsCheckable="True" IsChecked="True" />
-                </MenuItem>
+                </MenuItem>-->
             </Menu>
 
             <avalonDock:DockingManager x:Name="MainAvalonDockManager" DocumentsSource="{Binding DockableTabViews,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" Background="AliceBlue" >

@@ -260,6 +260,3 @@ C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\
 C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\HelloWorld\obj\Debug\Gen.Shell.csproj.GenerateResource.Cache
 C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\HelloWorld\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\HelloWorld\obj\Debug\Gen.Shell_MarkupCompile.lref
-C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\HelloWorld\bin\Debug\Gen.Shell.exe.config
-C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\HelloWorld\obj\Debug\Gen.Shell.exe
-C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\HelloWorld\obj\Debug\Gen.Shell.pdb

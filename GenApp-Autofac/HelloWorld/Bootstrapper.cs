@@ -58,9 +58,10 @@ namespace Gen.Shell
         {
             builder.RegisterType<NotificationService>().As<INotificationService>().SingleInstance();
             builder.RegisterType<NavigationService>().As<INavigationService>().SingleInstance();
+            builder.RegisterType<MenuService>().As<IMenuService>().SingleInstance();
 
             builder.Register<DialogService>(c => new DialogService(c.Resolve<IEventAggregator>())).As<IDialogService>().SingleInstance();
-            builder.Register<MainViewModel>(c => new MainViewModel(c.Resolve<IRegionManager>(),c.Resolve<IContainer>(), c.Resolve<INotificationService>(), c.Resolve<INavigationService>()));
+            builder.Register<MainViewModel>(c => new MainViewModel(c.Resolve<IRegionManager>(),c.Resolve<IContainer>(), c.Resolve<INotificationService>(), c.Resolve<INavigationService>(), c.Resolve<IMenuService>()));
             builder.Register<ViewAViewModel>(c => new ViewAViewModel(c.Resolve<INotificationService>(), c.Resolve<IDialogService>()));
             builder.RegisterType<ViewA>();
             
