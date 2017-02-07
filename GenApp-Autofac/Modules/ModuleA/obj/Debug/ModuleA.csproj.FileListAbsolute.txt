@@ -111,3 +111,31 @@ C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\
 C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.pdb
 C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleA\bin\Debug\Autofac.dll
 C:\Users\diasaar\Desktop\My Files\Sample Projects\HelloWorld-Autofac 30-12-2016\GenApp-Autofac\Modules\ModuleA\bin\Debug\Autofac.xml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\ModuleA.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\ModuleA.pdb
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Autofac.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Infrastructure.Common.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Prism.Autofac.Wpf.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Prism.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Prism.Wpf.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Infrastructure.Common.pdb
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Autofac.xml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Prism.xml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Prism.Autofac.Wpf.xml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\bin\Debug\Prism.Wpf.xml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.csprojResolveAssemblyReference.cache
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\Views\ViewA.baml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\Views\DialogAView.g.cs
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\Views\ViewA.g.cs
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA_MarkupCompile.cache
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA_MarkupCompile.lref
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\Views\DialogAView.baml
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.g.resources
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.Properties.Resources.resources
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.csproj.GenerateResource.Cache
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.dll
+C:\Users\diasaar\Source\Repos\CodeProjects\GenApp-Autofac\Modules\ModuleA\obj\Debug\ModuleA.pdb
